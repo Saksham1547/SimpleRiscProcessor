@@ -1,5 +1,10 @@
 # SimpleRISC Processor
 
+## Project Contributors
+Saksham Srivastava - 2301EC56
+Nishant Rajput - 2301EC17
+Smit Bhatt - 2301EC29
+
 ## Overview
 This project implements a SimpleRISC Processor using Verilog. The processor is designed to execute a subset of RISC instructions and includes various modules for instruction fetching, decoding, execution, memory access, and write-back stages. The design is modular, making it easy to understand and extend.
 
