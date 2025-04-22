@@ -1,8 +1,8 @@
 # SimpleRISC Processor
 
 ## Project Contributors
-Saksham Srivastava - 2301EC56
-Nishant Rajput - 2301EC17
+Saksham Srivastava - 2301EC56, 
+Nishant Rajput - 2301EC17, 
 Smit Bhatt - 2301EC29
 
 ## Overview
